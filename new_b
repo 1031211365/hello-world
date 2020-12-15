@@ -1,2 +1,6 @@
 new_branch
+<<<<<<< HEAD
 master
+=======
+new_b
+>>>>>>> new_branch
